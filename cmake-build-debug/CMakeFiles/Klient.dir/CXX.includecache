@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studia/TS/Projekt _TS_2_serwer/klient.cpp
+winsock2.h
+-
+iostream
+-
+string
+-
+time.h
+-
+ctime
+-
+random
+-
+
